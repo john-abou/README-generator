@@ -1,4 +1,4 @@
-# custom-readME
+# README generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -12,13 +12,13 @@
 - [Questions](#questions)
 
 ## Description
-Learning how to use node.js, built-in libraries and external libraries. Specifically, learning how to use fs and inquirer to accept user input and write/read files all from the terminal. Done using node.js.
+Program to create professional readme files. Made using node.js, fs module and inquirer module.
 
 ## Installation
-The project can be installed from github. Clone, fork, download a zip. Pick your poison
+From github.
 
 ## Usage
-They can use my project to create custom readme's for their repositories/projects
+Run the file from the command line to be prompted for readme questions. The program will autopopulate your readme based on your responses.
 
 ## License
 This project is licensed under the MIT License.
@@ -27,7 +27,7 @@ This project is licensed under the MIT License.
 None
 
 ## Contributing
-They can contribute by making a pull request. No reqs atm.
+From github.
 
 ## Questions
 If you have any questions, please contact me at abounassar.john@gmail.com or visit my github page at https://github.com/john-abou .
